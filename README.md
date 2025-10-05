@@ -29,7 +29,7 @@ jupyter notebook Time_Series_Forecasting.ipynb
 ## 📁 Project Structure
 ```
 ├── requirements.txt                # Python dependencies
-├── Notebook
+├── Notebook/
     ├──Time_Series_Forecasting.ipynb   # Main analysis notebook
 ├── README.md                       # Project documentation
 └── outputs/
