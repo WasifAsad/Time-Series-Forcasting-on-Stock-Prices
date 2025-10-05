@@ -131,6 +131,10 @@ Based on the analysis, here's what each model achieved:
 | LSTM    | $21.14  | $14.26  | 4.51%  | Complex patterns, large datasets  |
 <img width="4467" height="1468" alt="model_comparison" src="https://github.com/user-attachments/assets/51b8555d-3db2-4ab9-98ac-54725181d07a" />
 
+### Forecasting results:
+
+
+<img width="4771" height="2369" alt="all_models_predictions" src="https://github.com/user-attachments/assets/6e2ef3f2-3e3e-49b3-bc13-27baf9c243d9" />
 
 
 ## Key Code Sections Explained
