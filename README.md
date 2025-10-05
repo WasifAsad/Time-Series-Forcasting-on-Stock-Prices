@@ -29,7 +29,8 @@ jupyter notebook Time_Series_Forecasting.ipynb
 ## 📁 Project Structure
 ```
 ├── requirements.txt                # Python dependencies
-├── Time_Series_Forecasting.ipynb   # Main analysis notebook
+├── Notebook
+    ├──Time_Series_Forecasting.ipynb   # Main analysis notebook
 ├── README.md                       # Project documentation
 └── outputs/
     ├── tesla_eda.png              # Exploratory data analysis plots
